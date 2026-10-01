@@ -9,7 +9,7 @@ location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
-[<img src="iamges/cerf-colant-pejc.png">](cert-volant),
+[<img src="images/cerf-colant-pejc.png">](cert-volant),
 Heading 1
 ======
 
